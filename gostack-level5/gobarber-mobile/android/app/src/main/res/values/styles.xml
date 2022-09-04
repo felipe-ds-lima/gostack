@@ -1,0 +1,7 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">#312e38</item>
+        <item name="android:forceDarkAllowed">false</item>
+
+    </style>
+</resources>
